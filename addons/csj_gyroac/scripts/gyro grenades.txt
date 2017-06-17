@@ -1,0 +1,4 @@
+I have added grenades. 3 in total with 3 or 4 second reload time.
+To rearm just fly low over ammobox etc until re-arm action appears.
+
+[URL="http://www.mediafire.com/file/tmdnxhcj4qn/csj_gyroacV100501.rar"]Download csj_gyroac V.100501[/URL] gyro update

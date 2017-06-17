@@ -1,0 +1,22 @@
+_obj = (_this select 0)
+#loop
+~0.2
+?(not alive _obj) : goto "end"
+?(_obj animationPhase "patolamp" > 0.5) : goto "shine"
+goto "loop"
+
+#shine
+?(not alive _obj) : goto "end"
+_obj setobjecttexture [0,""]
+_obj setobjecttexture [1,"\GTR_R34\tex.pac"]
+~0.4
+_obj setobjecttexture [1,""]
+_obj setobjecttexture [0,"\GTR_R34\tex.pac"]
+?(_obj animationPhase "patolamp" < 0.5) : goto "loop"
+~0.4
+goto "shine"
+
+#end
+_obj setobjecttexture [0,"\GTR_R34\tex.pac"]
+_obj setobjecttexture [1,""]
+exit

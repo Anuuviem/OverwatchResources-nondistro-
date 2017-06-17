@@ -1,0 +1,1 @@
+dayz_maxMaxWeaponHolders = 65;

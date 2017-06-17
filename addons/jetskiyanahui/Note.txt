@@ -1,0 +1,12 @@
+
+
+_nohq and _AS maps not needed here
+
+Repaint texutres to more better colors, current colors is original in real life :)
+
+black/yellow        +
+white/pink          +
+green/dark-green    +
+blue/black          -   (here is korpus_white_co texture, need repaint to dark blue/black colors)
+
+body color/engine cover color

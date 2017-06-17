@@ -1,0 +1,87 @@
+﻿<Project name="Name">
+<Package name="Second name">
+<Container name="Persons">
+
+<Key ID="STRM_SBH_Paranoia_Alpha">
+<Original>Special Forces Alpha</Original>
+<Russian>Спецподразделение "Альфа"</Russian>
+</Key>
+
+<Key ID="STRM_SBH_Paranoia_Alpha_Groups">
+<Original>Russia (Group «A» FSB)</Original>
+<Russian>Россия (Группа «А» ФСБ)</Russian>
+</Key>
+
+<Key ID="STRM_SBH_Paranoia_Alpha_Group1">
+<Original>Assault Group 1</Original>
+<Russian>Штурмовая группа 1</Russian>
+</Key>
+
+<Key ID="STRM_SBH_Paranoia_Alpha_Group2">
+<Original>Assault Group 2</Original>
+<Russian>Штурмовая группа 2</Russian>
+</Key>
+
+<Key ID="STRM_SBH_Paranoia_Alpha_Group3">
+<Original>Sniper Group 1</Original>
+<Russian>Снайперская группа 1</Russian>
+</Key>
+
+<Key ID="STRM_SBH_Paranoia_Alpha_Group4">
+<Original>Sniper Group 2</Original>
+<Russian>Снайперская группа 2</Russian>
+</Key>
+
+<Key ID="STRM_SBH_Paranoia_Alpha_Vehicle1">
+<Original>No cover/Helmet open</Original>
+<Russian>Без маски/Шлем открытый</Russian>
+</Key>
+
+<Key ID="STRM_SBH_Paranoia_Alpha_Vehicle2">
+<Original>With cover/Helmet closed</Original>
+<Russian>Маска/Шлем закрытый</Russian>
+</Key>
+
+<Key ID="STRM_SBH_Paranoia_Alpha_Soldier1">
+<Original>Soldier with AK-74</Original>
+<Russian>Боец с АК-74</Russian>
+</Key>
+
+<Key ID="STRM_SBH_Paranoia_Alpha_Soldier2">
+<Original>Soldier with AK-107</Original>
+<Russian>Боец с АК-107</Russian>
+</Key>
+
+<Key ID="STRM_SBH_Paranoia_Alpha_Soldier3">
+<Original>Soldier with RPG</Original>
+<Russian>Боец с РПГ</Russian>
+</Key>
+
+<Key ID="STRM_SBH_Paranoia_Alpha_Soldier4">
+<Original>Soldier with SVD</Original>
+<Russian>Боец с СВД</Russian>
+</Key>
+
+<Key ID="STRM_SBH_Paranoia_Alpha_Soldier5">
+<Original>Soldier with AK-74/GP25</Original>
+<Russian>Боец с AK-74/GP25</Russian>
+</Key>
+
+<Key ID="STRM_SBH_Paranoia_Alpha_Soldier_Unaided1">
+<Original>Soldier Unaided 1</Original>
+<Russian>Боец невооружен 1</Russian>
+</Key>
+
+<Key ID="STRM_SBH_Paranoia_Alpha_Soldier_Unaided2">
+<Original>Soldier Unaided 2 (In helmet)</Original>
+<Russian>Боец невооружен 2 (В каске)</Russian>
+</Key>
+
+<Key ID="STRM_SBH_Paranoia_Alpha_Soldier_Unaided3">
+<Original>Soldier Unaided (In gas mask)</Original>
+<Russian>Боец невооружен (В противогазе)</Russian>
+</Key>
+
+</Container>
+</Package>
+</Project>
